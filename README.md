@@ -18,5 +18,5 @@ http://pythontesting.net/framework/unittest/unittest-introduction/
 
 
 http://pythontesting.net/framework/nose/nose-introduction/
-* 
-* 
+* nosetests -v test_um_nose.py
+* nosetests -s test_um_nose_fixtures.py 
